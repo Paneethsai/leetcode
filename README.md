@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Paneethsai/leetcode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/Paneethsai/leetcode/tree/master/0050-powx-n) |
+| [0204-count-primes](https://github.com/Paneethsai/leetcode/tree/master/0204-count-primes) |
 | [0509-fibonacci-number](https://github.com/Paneethsai/leetcode/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -37,8 +38,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Paneethsai/leetcode/tree/master/0136-single-number) |
+| [0204-count-primes](https://github.com/Paneethsai/leetcode/tree/master/0204-count-primes) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Paneethsai/leetcode/tree/master/0136-single-number) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Paneethsai/leetcode/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Paneethsai/leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
