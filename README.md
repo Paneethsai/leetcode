@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/Paneethsai/leetcode/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/Paneethsai/leetcode/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/Paneethsai/leetcode/tree/master/0283-move-zeroes) |
 ## String
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/Paneethsai/leetcode/tree/master/0027-remove-element) |
 | [0136-single-number](https://github.com/Paneethsai/leetcode/tree/master/0136-single-number) |
 | [0204-count-primes](https://github.com/Paneethsai/leetcode/tree/master/0204-count-primes) |
 | [0283-move-zeroes](https://github.com/Paneethsai/leetcode/tree/master/0283-move-zeroes) |
