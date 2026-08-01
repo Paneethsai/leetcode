@@ -12,12 +12,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Paneethsai/leetcode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/Paneethsai/leetcode/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/Paneethsai/leetcode/tree/master/0204-count-primes) |
+| [0486-predict-the-winner](https://github.com/Paneethsai/leetcode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Paneethsai/leetcode/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Paneethsai/leetcode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/Paneethsai/leetcode/tree/master/0050-powx-n) |
+| [0486-predict-the-winner](https://github.com/Paneethsai/leetcode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Paneethsai/leetcode/tree/master/0509-fibonacci-number) |
 ## Two Pointers
 |  |
@@ -35,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Paneethsai/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0486-predict-the-winner](https://github.com/Paneethsai/leetcode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Paneethsai/leetcode/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -48,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Paneethsai/leetcode/tree/master/0136-single-number) |
 | [0204-count-primes](https://github.com/Paneethsai/leetcode/tree/master/0204-count-primes) |
 | [0283-move-zeroes](https://github.com/Paneethsai/leetcode/tree/master/0283-move-zeroes) |
+| [0486-predict-the-winner](https://github.com/Paneethsai/leetcode/tree/master/0486-predict-the-winner) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Paneethsai/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Bit Manipulation
 |  |
@@ -85,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Paneethsai/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Paneethsai/leetcode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
