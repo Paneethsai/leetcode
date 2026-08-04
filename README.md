@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Paneethsai/leetcode/tree/master/0486-predict-the-winner) |
 | [1406-stone-game-iii](https://github.com/Paneethsai/leetcode/tree/master/1406-stone-game-iii) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Paneethsai/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [3731-find-missing-elements](https://github.com/Paneethsai/leetcode/tree/master/3731-find-missing-elements) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0290-word-pattern](https://github.com/Paneethsai/leetcode/tree/master/0290-word-pattern) |
+| [3731-find-missing-elements](https://github.com/Paneethsai/leetcode/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Paneethsai/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [3731-find-missing-elements](https://github.com/Paneethsai/leetcode/tree/master/3731-find-missing-elements) |
 ## Prefix Sum
 |  |
 | ------- |
