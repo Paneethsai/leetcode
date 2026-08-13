@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Paneethsai/leetcode/tree/master/0136-single-number) |
 | [0204-count-primes](https://github.com/Paneethsai/leetcode/tree/master/0204-count-primes) |
 | [0283-move-zeroes](https://github.com/Paneethsai/leetcode/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/Paneethsai/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/Paneethsai/leetcode/tree/master/0486-predict-the-winner) |
 | [1406-stone-game-iii](https://github.com/Paneethsai/leetcode/tree/master/1406-stone-game-iii) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Paneethsai/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
