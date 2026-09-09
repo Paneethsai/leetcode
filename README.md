@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Paneethsai/leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Paneethsai/leetcode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Paneethsai/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/Paneethsai/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Paneethsai/leetcode/tree/master/0136-single-number) |
 | [0204-count-primes](https://github.com/Paneethsai/leetcode/tree/master/0204-count-primes) |
 | [0283-move-zeroes](https://github.com/Paneethsai/leetcode/tree/master/0283-move-zeroes) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Paneethsai/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0290-word-pattern](https://github.com/Paneethsai/leetcode/tree/master/0290-word-pattern) |
 | [3731-find-missing-elements](https://github.com/Paneethsai/leetcode/tree/master/3731-find-missing-elements) |
 ## Binary Search
@@ -139,4 +141,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Paneethsai/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Paneethsai/leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
